@@ -1,8 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /rgbcolor/license
 Disallow: /cmykcolor/license
-Disallow: /arithmetic/assets/favicon.ec579a2f.ico
-Disallow: /arithmetic/assets/index.46067b9c.js
-Disallow: /arithmetic/assets/index.b11f947a.css
 Sitemap: https://appre.github.io/sitemap.xml
